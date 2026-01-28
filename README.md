@@ -2,12 +2,16 @@
 
 > My Portfolio Site, made just with HTML currently.
 
-![Project Screenshot](image/main_favicon.png)
+ ## Screenshots
+
+![Project Screenshot](images/screenshot-1.png)
+![Project Screenshot](images/screenshot-2.png)
 
 
-## 🚀 Setup & Installation
 
-Since this project is a standalone HTML file, there are no complex dependencies or build steps.
+## Setup & Installation
+
+Since this portfolio is a standalone HTML file, there are no complex dependencies or build steps.
 
 ### Option 1: Direct Download
 1.  **Download** the `index.html` file from this repository.
@@ -19,3 +23,4 @@ If you have Git installed, you can clone the repository to your local machine:
 ```bash
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd your-repo-name
+
