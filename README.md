@@ -24,7 +24,8 @@ Since this portfolio is a standalone HTML file, there are no complex dependencie
 If you have Git installed, you can clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/your-username/your-repo-name.git]
 cd your-repo-name
+
 
 
