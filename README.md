@@ -8,7 +8,7 @@
 ![Project Screenshot](images/screenshot-2.png)
 
 ## Link for the page -
-[Project Link](maahin.vercel.app)
+[Project Link](https://maahin.vercel.app)
 
 
 
@@ -26,6 +26,7 @@ If you have Git installed, you can clone the repository to your local machine:
 ```bash
 git clone [https://github.com/your-username/your-repo-name.git]
 cd your-repo-name
+
 
 
 
